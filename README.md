@@ -24,4 +24,4 @@ Kuis 3 Kriptografi - Felix Joshua Paulus 105222032 - Muhammad Rizqi Ferdhinandit
 ## Langkah-langkah
 
 Masukkan Plaintext yang ingin dienkripsi
-Key (tepat 8 karakter)
+dan Key (tepat 8 karakter)
