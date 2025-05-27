@@ -21,7 +21,11 @@ Kuis 3 Kriptografi - Felix Joshua Paulus 105222032 - Muhammad Rizqi Ferdhinandit
 
 ---
 
-## Langkah-langkah
+## Langkah
 
 Masukkan Plaintext yang ingin dienkripsi
 dan Key (tepat 8 karakter)
+
+## Lisensi
+
+Felix Joshua Paulus (105222032) - Muhammad Rizqi Ferdhinandito (105222041)
